@@ -1,0 +1,3 @@
+/Applications/MacVim.app/Contents/Resources/vim/runtime/colors/desert.vim
+/Applications/Vim.app/Contents/Resources/vim/runtime/colors/desert.vim
+/usr/share/vim/vim73/colors/desert.vim
